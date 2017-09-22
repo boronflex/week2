@@ -2,9 +2,13 @@ p{
 	font-family: sans-serif;
 }
 a:hover{
-
 	background-color: blue;
-	
+}
+a:link {
+  color: blue;
+}
+a:visited {
+  color: magenta;
 }
 .tryFocus{
 	color: red;
