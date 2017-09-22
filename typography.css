@@ -1,7 +1,14 @@
 p{
 	font-family: sans-serif;
 }
+a:hover{
 
+	background-color: blue;
+	
+}
+.tryFocus{
+	color: red;
+}
 .boldText {
 	font-family: 'Asap Condensed', sans-serif;
 	font-weight: bold;
@@ -14,3 +21,4 @@ p{
 	font-family: 'Source Code Pro', monospace;
 	line-height: 50px;
 }
+
