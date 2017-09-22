@@ -1,0 +1,16 @@
+p{
+	font-family: sans-serif;
+}
+
+.boldText {
+	font-family: 'Asap Condensed', sans-serif;
+	font-weight: bold;
+}
+.fontSized {
+	font-family: 'Acme', sans-serif;
+	font-size: 24px;
+}
+.lineHeight {
+	font-family: 'Source Code Pro', monospace;
+	line-height: 50px;
+}
